@@ -1,7 +1,0 @@
-C:\Users\jtlon\Desktop\C#\Projects\LAB2\ColorMixer\bin\Debug\ColorMixer.exe.config
-C:\Users\jtlon\Desktop\C#\Projects\LAB2\ColorMixer\bin\Debug\ColorMixer.exe
-C:\Users\jtlon\Desktop\C#\Projects\LAB2\ColorMixer\bin\Debug\ColorMixer.pdb
-C:\Users\jtlon\Desktop\C#\Projects\LAB2\ColorMixer\obj\Debug\ColorMixer.csprojAssemblyReference.cache
-C:\Users\jtlon\Desktop\C#\Projects\LAB2\ColorMixer\obj\Debug\ColorMixer.csproj.CoreCompileInputs.cache
-C:\Users\jtlon\Desktop\C#\Projects\LAB2\ColorMixer\obj\Debug\ColorMixer.exe
-C:\Users\jtlon\Desktop\C#\Projects\LAB2\ColorMixer\obj\Debug\ColorMixer.pdb

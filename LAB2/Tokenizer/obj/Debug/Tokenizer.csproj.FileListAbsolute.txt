@@ -1,7 +1,0 @@
-C:\Users\jtlon\Desktop\C#\Projects\Tokenizer\bin\Debug\Tokenizer.exe.config
-C:\Users\jtlon\Desktop\C#\Projects\Tokenizer\bin\Debug\Tokenizer.exe
-C:\Users\jtlon\Desktop\C#\Projects\Tokenizer\bin\Debug\Tokenizer.pdb
-C:\Users\jtlon\Desktop\C#\Projects\Tokenizer\obj\Debug\Tokenizer.csprojAssemblyReference.cache
-C:\Users\jtlon\Desktop\C#\Projects\Tokenizer\obj\Debug\Tokenizer.csproj.CoreCompileInputs.cache
-C:\Users\jtlon\Desktop\C#\Projects\Tokenizer\obj\Debug\Tokenizer.exe
-C:\Users\jtlon\Desktop\C#\Projects\Tokenizer\obj\Debug\Tokenizer.pdb

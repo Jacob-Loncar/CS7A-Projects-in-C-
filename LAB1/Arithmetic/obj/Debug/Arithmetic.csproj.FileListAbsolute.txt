@@ -1,7 +1,0 @@
-C:\Users\jtlon\Desktop\C#\Projects\Arithmetic\obj\Debug\Arithmetic.csproj.CoreCompileInputs.cache
-C:\Users\jtlon\Desktop\C#\Projects\Arithmetic\bin\Debug\Arithmetic.exe.config
-C:\Users\jtlon\Desktop\C#\Projects\Arithmetic\bin\Debug\Arithmetic.exe
-C:\Users\jtlon\Desktop\C#\Projects\Arithmetic\bin\Debug\Arithmetic.pdb
-C:\Users\jtlon\Desktop\C#\Projects\Arithmetic\obj\Debug\Arithmetic.exe
-C:\Users\jtlon\Desktop\C#\Projects\Arithmetic\obj\Debug\Arithmetic.pdb
-C:\Users\jtlon\Desktop\C#\Projects\Arithmetic\obj\Debug\Arithmetic.csprojAssemblyReference.cache

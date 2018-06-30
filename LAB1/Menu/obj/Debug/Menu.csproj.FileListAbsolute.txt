@@ -1,6 +1,0 @@
-C:\Users\jtlon\Desktop\C#\Projects\Menu\bin\Debug\Menu.exe.config
-C:\Users\jtlon\Desktop\C#\Projects\Menu\bin\Debug\Menu.exe
-C:\Users\jtlon\Desktop\C#\Projects\Menu\bin\Debug\Menu.pdb
-C:\Users\jtlon\Desktop\C#\Projects\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
-C:\Users\jtlon\Desktop\C#\Projects\Menu\obj\Debug\Menu.exe
-C:\Users\jtlon\Desktop\C#\Projects\Menu\obj\Debug\Menu.pdb
