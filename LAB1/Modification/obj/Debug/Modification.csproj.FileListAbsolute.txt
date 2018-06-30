@@ -1,0 +1,6 @@
+C:\Users\jtlon\Desktop\C#\Projects\Modification\bin\Debug\Modification.exe.config
+C:\Users\jtlon\Desktop\C#\Projects\Modification\bin\Debug\Modification.exe
+C:\Users\jtlon\Desktop\C#\Projects\Modification\bin\Debug\Modification.pdb
+C:\Users\jtlon\Desktop\C#\Projects\Modification\obj\Debug\Modification.csproj.CoreCompileInputs.cache
+C:\Users\jtlon\Desktop\C#\Projects\Modification\obj\Debug\Modification.exe
+C:\Users\jtlon\Desktop\C#\Projects\Modification\obj\Debug\Modification.pdb

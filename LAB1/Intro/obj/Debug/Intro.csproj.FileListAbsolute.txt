@@ -1,0 +1,14 @@
+C:\Users\jtlon\Desktop\C#\Projects\Intro\obj\Debug\Intro.csprojAssemblyReference.cache
+C:\Users\jtlon\Desktop\C#\Projects\Intro\obj\Debug\Intro.csproj.CoreCompileInputs.cache
+C:\Users\jtlon\Desktop\C#\Projects\Intro\bin\Debug\Intro.exe.config
+C:\Users\jtlon\Desktop\C#\Projects\Intro\bin\Debug\Intro.exe
+C:\Users\jtlon\Desktop\C#\Projects\Intro\bin\Debug\Intro.pdb
+C:\Users\jtlon\Desktop\C#\Projects\Intro\obj\Debug\Intro.exe
+C:\Users\jtlon\Desktop\C#\Projects\Intro\obj\Debug\Intro.pdb
+C:\Users\jtlon\Desktop\GitHub\CS7A-Projects-in-C#\LAB1\Intro\bin\Debug\Intro.exe.config
+C:\Users\jtlon\Desktop\GitHub\CS7A-Projects-in-C#\LAB1\Intro\bin\Debug\Intro.exe
+C:\Users\jtlon\Desktop\GitHub\CS7A-Projects-in-C#\LAB1\Intro\bin\Debug\Intro.pdb
+C:\Users\jtlon\Desktop\GitHub\CS7A-Projects-in-C#\LAB1\Intro\obj\Debug\Intro.csprojAssemblyReference.cache
+C:\Users\jtlon\Desktop\GitHub\CS7A-Projects-in-C#\LAB1\Intro\obj\Debug\Intro.csproj.CoreCompileInputs.cache
+C:\Users\jtlon\Desktop\GitHub\CS7A-Projects-in-C#\LAB1\Intro\obj\Debug\Intro.exe
+C:\Users\jtlon\Desktop\GitHub\CS7A-Projects-in-C#\LAB1\Intro\obj\Debug\Intro.pdb

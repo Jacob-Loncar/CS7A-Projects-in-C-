@@ -1,0 +1,14 @@
+C:\Users\jtlon\Desktop\C#\Projects\ThousandSeperator\bin\Debug\ThousandSeperator.exe.config
+C:\Users\jtlon\Desktop\C#\Projects\ThousandSeperator\bin\Debug\ThousandSeperator.exe
+C:\Users\jtlon\Desktop\C#\Projects\ThousandSeperator\bin\Debug\ThousandSeperator.pdb
+C:\Users\jtlon\Desktop\C#\Projects\ThousandSeperator\obj\Debug\ThousandSeperator.csproj.CoreCompileInputs.cache
+C:\Users\jtlon\Desktop\C#\Projects\ThousandSeperator\obj\Debug\ThousandSeperator.exe
+C:\Users\jtlon\Desktop\C#\Projects\ThousandSeperator\obj\Debug\ThousandSeperator.pdb
+C:\Users\jtlon\Desktop\C#\Projects\ThousandSeperator\obj\Debug\ThousandSeperator.csprojAssemblyReference.cache
+C:\Users\jtlon\Desktop\C#\Projects\LAB2\ThousandSeperator\obj\Debug\ThousandSeperator.csprojAssemblyReference.cache
+C:\Users\jtlon\Desktop\C#\Projects\LAB2\ThousandSeperator\obj\Debug\ThousandSeperator.csproj.CoreCompileInputs.cache
+C:\Users\jtlon\Desktop\C#\Projects\LAB2\ThousandSeperator\obj\Debug\ThousandSeperator.exe
+C:\Users\jtlon\Desktop\C#\Projects\LAB2\ThousandSeperator\obj\Debug\ThousandSeperator.pdb
+C:\Users\jtlon\Desktop\C#\Projects\LAB2\ThousandSeperator\bin\Debug\ThousandSeperator.exe.config
+C:\Users\jtlon\Desktop\C#\Projects\LAB2\ThousandSeperator\bin\Debug\ThousandSeperator.exe
+C:\Users\jtlon\Desktop\C#\Projects\LAB2\ThousandSeperator\bin\Debug\ThousandSeperator.pdb
